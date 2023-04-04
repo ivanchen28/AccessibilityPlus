@@ -1,0 +1,68 @@
+.homebanner-container {
+    background: url('/public/images/home-background.jpg') center center/cover no-repeat;
+    height: 50vw;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.2);
+    object-fit: contains;
+    justify-content: center;
+}
+
+.homebanner-container > h1 {
+    color: #fcf3ff;
+    font-size: 80px;
+    margin-top: -100px;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.homebanner-container > p {
+    margin-top: 8px;
+    color: #fcf3ff;
+    font-size: 32px;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+}
+
+.banner-buttons {
+    margin-top: 32px;
+}
+
+.banner-buttons .btn {
+    margin: 10px;
+}
+
+.fa-angle-right {
+    margin-left: 4px;
+    color: rgb(13, 80, 151);
+}
+
+@media screen and (max-width: 960px) {
+    .homebanner-container > h1 {
+        font-size: 70px;
+        margin-top: -150px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .homebanner-container > h1 {
+        font-size: 50px;
+        margin-top: -100px;
+    }
+    .homebanner-container > p {
+        font-size: 30px;
+    }
+    .btn-mobile {
+        display: block;
+        text-decoration: none;
+    }
+    .btn {
+        width: 100%;
+    }
+}
