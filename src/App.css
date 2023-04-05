@@ -24,3 +24,108 @@
   color: #fff;
   font-size: 100px;
 }
+
+.standard-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #ffffff96;
+  margin-top: 40px;
+  margin-bottom: 60px;
+  margin-left: 20%;
+  margin-right: 20%;
+  height: 100%;
+}
+
+.standard-page > h1 {
+  color: rgb(0, 49, 99);
+  font-family: 'Roboto', sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  margin-top: 10px;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+.standard-page > h2 {
+  color: rgb(3, 80, 151);
+  font-family: 'Roboto', sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  margin-top: 0px;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+.standard-page > p {
+  margin-top: 8px;
+  color: #1d1d1d;
+  font-size: 18px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 650;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  text-align: justify;
+  letter-spacing: 0.5px;
+  line-height: 1.3em;
+}
+
+.standard-page > figure {
+  margin-top: 12px;
+  margin-bottom: 12px;
+  width: 100%;
+  height: auto;
+  align-items: center;
+}
+
+.standard-page > figure > img {
+  max-width: 100%;
+  width: 100%;
+  height: auto;
+  margin: auto;
+}
+
+.standard-page > figure > figcaption {
+  text-align: justify;
+  font-size: 16px;
+  font-weight: 550;
+}
+
+@media screen and (max-width: 960px) {
+  .standard-page {
+    margin-top: 35px;
+    margin-bottom: 35px;
+    margin-left: 15%;
+    margin-right: 15%;
+  }
+
+  .standard-page > h1 {
+    font-size: 36px;
+  }
+
+  .standard-page > h2 {
+    font-size: 20px;
+  }
+
+}
+
+@media screen and (max-width: 768px) {
+  .standard-page {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+
+  .standard-page > h1 {
+    font-size: 30px;
+  }
+
+  .standard-page > h2 {
+    font-size: 18px;
+  }
+
+  .standard-page > p {
+    font-size: 16px;
+  }
+}
