@@ -24,36 +24,36 @@ function CardHolder() {
                 </ul>
                 <ul className='cards-list'>
                     <CardItem
-                        src="images/demos/hearing-loss.jpg"
-                        text="Nearly 20% of people experience hearing loss and deafness of varying degrees."
-                        label='Hearing Loss'
-                        path='/demos/hearing-loss'
-                    />
-                    <CardItem
                         src="images/demos/contrast.jpg"
                         text="Both high and low contrast colour schemes lead to eye strain and fatigue."
                         label='Contrast'
                         path='/demos/contrast'
                     />
                     <CardItem
-                        src="images/demos/mobile-accessibility.jpg"
-                        text="Mobile devices are becoming popular support tools for users with accessibility needs."
-                        label='Mobile Support'
-                        path='/demos/mobile-support'
-                    />
-                </ul>
-                <ul className='cards-list'>
-                    <CardItem
-                        src="images/demos/motor-impairment.jpg"
-                        text="Fine motor impairment in the hands and arms severely impedes web and computer usage."
-                        label='Motor Impairment'
-                        path='/demos/motor-impairment'
+                        src="images/demos/hearing-loss.jpg"
+                        text="Nearly 20% of people experience hearing loss and deafness of varying degrees."
+                        label='Hearing Loss'
+                        path='/demos/hearing-loss'
                     />
                     <CardItem
                         src="images/demos/low-vision.jpg"
                         text="Users with uncorrectable vision loss may require dynamic sizing of webpages and other accessibility features."
                         label='Low Vision'
                         path='/demos/low-vision'
+                    />
+                </ul>
+                <ul className='cards-list'>
+                    <CardItem
+                        src="images/demos/mobile-accessibility.jpg"
+                        text="Mobile devices are becoming popular support tools for users with accessibility needs."
+                        label='Mobile Support'
+                        path='/demos/mobile-support'
+                    />
+                    <CardItem
+                        src="images/demos/motor-impairment.jpg"
+                        text="Fine motor impairment in the hands and arms severely impedes web and computer usage."
+                        label='Motor Impairment'
+                        path='/demos/motor-impairment'
                     />
                 </ul>
             </div>
