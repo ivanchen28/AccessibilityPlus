@@ -58,16 +58,40 @@
 }
 
 .standard-page > p {
-  margin-top: 8px;
   color: #1d1d1d;
   font-size: 18px;
   font-family: 'Roboto', sans-serif;
   font-weight: 650;
-  margin-top: 8px;
-  margin-bottom: 8px;
+  margin-top: 10px;
+  margin-bottom: 10px;
   text-align: justify;
   letter-spacing: 0.5px;
-  line-height: 1.3em;
+  line-height: 1.5em;
+  align-self: flex-start;
+}
+
+.standard-page > ul {
+  margin-top: -3px;
+  margin-bottom: 5px;
+  align-self: flex-start;
+  margin-left: 40px;
+}
+
+.standard-page > ul > li {
+  color: #1d1d1dd7;
+  font-size: 17px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 650;
+  margin-top: 3px;
+  margin-bottom: 3px;
+  text-align: justify;
+  letter-spacing: 0.5px;
+  line-height: 1.5em;
+  align-self: flex-start;
+}
+
+strong {
+  font-weight: 1000;
 }
 
 .standard-page > figure {
@@ -91,6 +115,21 @@
   font-weight: 550;
 }
 
+.standard-page > hr {
+  border: 0;
+  clear: both;
+  display: block;
+  margin-top: 16px;
+  margin-bottom: 16px;
+  width: 100%;               
+  background-color: #1d1d1d;
+  height: 0.5px;
+}
+
+.demo-paragraph {
+  font-size: 17px;
+}
+
 @media screen and (max-width: 960px) {
   .standard-page {
     margin-top: 35px;
@@ -106,7 +145,6 @@
   .standard-page > h2 {
     font-size: 20px;
   }
-
 }
 
 @media screen and (max-width: 768px) {

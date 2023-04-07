@@ -14,7 +14,7 @@ function Demos() {
 
         <div className='strip-holder'>
           <StripItem
-            src="images/demos/cognitive-impairment.jpg"
+            src="/images/demos/cognitive-impairment.jpg"
             title='Cognitive Impairment'
             text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec posuere eget augue et consectetur. Maecenas fermentum maximus ornare. Integer vulputate, nisi ac faucibus sodales, lectus risus vulputate metus, a luctus tellus sapien vitae nisi."
             path='/demos/cognitive-impairment'
@@ -23,7 +23,7 @@ function Demos() {
 
         <div className='strip-holder'>
           <StripItem
-            src="images/demos/colourblindness.jpg"
+            src="/images/demos/colourblindness.jpg"
             title='Colourblindness'
             text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec posuere eget augue et consectetur. Maecenas fermentum maximus ornare. Integer vulputate, nisi ac faucibus sodales, lectus risus vulputate metus, a luctus tellus sapien vitae nisi."
             path='/demos/cognitive-impairment'
@@ -33,7 +33,7 @@ function Demos() {
 
         <div className='strip-holder'>
           <StripItem
-            src="images/demos/contrast.jpg"
+            src="/images/demos/contrast.jpg"
             title='Contrast'
             text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec posuere eget augue et consectetur. Maecenas fermentum maximus ornare. Integer vulputate, nisi ac faucibus sodales, lectus risus vulputate metus, a luctus tellus sapien vitae nisi."
             path='/demos/contrast'
@@ -42,7 +42,7 @@ function Demos() {
 
         <div className='strip-holder'>
           <StripItem
-            src="images/demos/hearing-loss.jpg"
+            src="/images/demos/hearing-loss.jpg"
             title='Hearing Loss'
             text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec posuere eget augue et consectetur. Maecenas fermentum maximus ornare. Integer vulputate, nisi ac faucibus sodales, lectus risus vulputate metus, a luctus tellus sapien vitae nisi."
             path='/demos/hearing-loss'
@@ -52,7 +52,7 @@ function Demos() {
 
         <div className='strip-holder'>
           <StripItem
-            src="images/demos/low-vision.jpg"
+            src="/images/demos/low-vision.jpg"
             title='Low Vision'
             text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec posuere eget augue et consectetur. Maecenas fermentum maximus ornare. Integer vulputate, nisi ac faucibus sodales, lectus risus vulputate metus, a luctus tellus sapien vitae nisi."
             path='/demos/low-vision'
@@ -61,7 +61,7 @@ function Demos() {
 
         <div className='strip-holder'>
           <StripItem
-            src="images/demos/mobile-accessibility.jpg"
+            src="/images/demos/mobile-accessibility.jpg"
             title='Mobile Accessibility'
             text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec posuere eget augue et consectetur. Maecenas fermentum maximus ornare. Integer vulputate, nisi ac faucibus sodales, lectus risus vulputate metus, a luctus tellus sapien vitae nisi."
             path='/demos/mobile-accessibility'
@@ -71,9 +71,9 @@ function Demos() {
 
         <div className='strip-holder'>
           <StripItem
-            src="images/demos/motor-impairment.jpg"
+            src="/images/demos/motor-impairment/main-card.jpg"
             title='Motor Impairment'
-            text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec posuere eget augue et consectetur. Maecenas fermentum maximus ornare. Integer vulputate, nisi ac faucibus sodales, lectus risus vulputate metus, a luctus tellus sapien vitae nisi."
+            text="Motor impairment can come from many different diseases, conditions, and accidents and can affect people of all ages. Computer usage is often much more difficult with motor impairment as traditional input devices and certain website designs may not be very accomodating to users with accessibility needs."
             path='/demos/motor-impairment'
           />
         </div>
