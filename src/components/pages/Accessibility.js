@@ -49,9 +49,22 @@ function Accessibility() {
       <p>
       Web accessibility is absolutely essential to people with disabilities, though it should be noted that it also benefits people without disabilities. Such groups include older people with age-related impairments, people with low literacy or who are not fluent in the language, people using lower-bandwidth or using older technologies, people who are new to the internet or use it infrequently and even mobile phone users. 
       </p>
-      <h3>Improved user experience</h3>
+      <h3>Improved User experience</h3>
       <p>
       Web accessibility at its core lends itself to a more user-friendly experience - accounting for people with and without disabilities in a variety of situations. For instance, video transcripts can be skimmed, as opposed to watched or listened to, used without needing to download video files, used offline, be printed or be converted to braille. Even in this example, such an accessible technology can be used in noisy environments, with a mobile display, or in a place with lower bandwidth. In general, technologies adhering to accessibility principles, such as clear and consistent design, dividing information blocks into groups,  supplemental illustrations, keeping language simple and precise, good color contrast and faster loading times - clearly all support a better user experience on the web.
+      </p>
+      <h2 className='subtitle'>The Current State of Web Accessibility</h2>
+      <p>
+      With the importance of accessibility being outlined above, and with nowadays push for a more inclusive environment - the expectation may be that web accessibility is, for the most part, the default.
+      </p>
+      <p>
+      However, despite established standards for accessibility, such as the Web Content Accessibility Guidelines (WCAG) - one of the most referenced in website accessibility lawsuits, web accessibility being wide-spread throughout the net is not actually the case. In 2023, according to WebAIM’s accessibility evaluation tool; WAVE, 96.3% of website homepages had detected WCAG 2 conformance failures. In terms of the detected errors that have notable user impact, on average there are 50.8 errors per page.
+      </p>
+      <p>
+      Clearly, there is still a wide gap to bridge before the goal of an accessible and equitable Web is reached. To step in the direction of the widespread adoption of accessible technology - there needs to be awareness spread about the importance of web accessibility, and for policymakers and governments to increasingly prioritize web accessibility - through providing training and education and regulating an accessible digital experience. 
+      </p>
+      <p>
+      Though even those who are not responsible for larger scale efforts that companies, governments and organizations are, such as smaller site creators, web developers and designers, can also help the move towards a more equitable online experience through staying educated about the state of accessibility, and prioritizing it in their digital products.
       </p>
 
     </div>
