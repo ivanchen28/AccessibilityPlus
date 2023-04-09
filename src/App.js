@@ -1,6 +1,6 @@
 import './App.css';
 import Home from './components/pages/Home';
-import About from './components/pages/About';
+import Accounts from './components/pages/Accounts';
 import Accessibility from './components/pages/Accessibility';
 import Demos from './components/pages/Demos';
 import MotorImpairment from './components/pages/demos/MotorImpairment';
@@ -18,7 +18,7 @@ function App() {
         <Navbar />
         <Routes>
           <Route path='/' exact element={<Home/>}></Route>
-          <Route path='/about' element={<About/>}></Route>
+          <Route path='/accounts' element={<Accounts/>}></Route>
           <Route path='/accessibility' element={<Accessibility/>}></Route>
           <Route path='/demos' element={<Demos/>}></Route>
           <Route path='/demos/motor-impairment' element={<MotorImpairment/>}></Route>

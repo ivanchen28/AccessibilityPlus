@@ -35,7 +35,7 @@ function Footer() {
             <h2 className='footer-heading'>Pages</h2>
             <Link to='/'>Homepage</Link>
             <Link to='/accessiblity'>Why Accessibility?</Link>
-            <Link to='/about'>About AccessibilityPlus</Link>
+            <Link to='/accounts'>User Accounts</Link>
             <br></br>
             <Link onClick={scrollToTop}>Back to Top</Link>
           </div>
