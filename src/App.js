@@ -4,6 +4,7 @@ import Accounts from './components/pages/Accounts';
 import Accessibility from './components/pages/Accessibility';
 import Demos from './components/pages/Demos';
 import MotorImpairment from './components/pages/demos/MotorImpairment';
+import MobileAccessibility from './components/pages/demos/MobileAccessibility';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import ScrollToTop from './components/ScrollToTop';
@@ -21,6 +22,7 @@ function App() {
           <Route path='/accounts' element={<Accounts/>}></Route>
           <Route path='/accessibility' element={<Accessibility/>}></Route>
           <Route path='/demos' element={<Demos/>}></Route>
+          <Route path='/demos/mobile-accessibility' element={<MobileAccessibility/>}></Route>
           <Route path='/demos/motor-impairment' element={<MotorImpairment/>}></Route>
         </Routes>
         <Footer />
