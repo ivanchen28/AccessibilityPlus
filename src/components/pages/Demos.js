@@ -23,10 +23,10 @@ function Demos() {
 
         <div className='strip-holder'>
           <StripItem
-            src="/images/demos/colourblindness.jpg"
+            src="/images/demos/colourblindness/main-card.jpg"
             title='Colourblindness'
             text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec posuere eget augue et consectetur. Maecenas fermentum maximus ornare. Integer vulputate, nisi ac faucibus sodales, lectus risus vulputate metus, a luctus tellus sapien vitae nisi."
-            path='/demos/cognitive-impairment'
+            path='/demos/colourblindness'
             reverse='true'
           />
         </div>
