@@ -25,7 +25,6 @@ function Footer() {
             <h2 className='footer-heading'>Try all our demos!</h2>
             <Link to='/demos/cognitive-impairment'>Cognitive Impairment</Link>
             <Link to='/demos/colourblindness'>Colourblindness</Link>
-            <Link to='/demos/contrast'>Contrast</Link>
             <Link to='/demos/hearing-loss'>Hearing Loss</Link>
             <Link to='/demos/low-vision'>Low Vision</Link>
             <Link to='/demos/mobile-accessibility'>Mobile Accessibility</Link>
