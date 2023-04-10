@@ -29,7 +29,7 @@ function HearingLoss() {
           <li>Media players without controls to stop, pause, and adjust audio volume.</li>
         </ul>
         <p>
-            Ruth MacMullen, an academic librarian who has been profoundly deaf since birth, has spoken about how her deafness affects her needs when it comes to using the Web. Drawing from her experiences, the following are some recommendations on how to improve accessibility for deaf and hard of hearing people, with an emphasis on <b>clear communication</b> and <b>flexibility of content</b>:
+            <a href="https://www.tpgi.com/sounding-out-the-web-accessibility-for-deaf-and-hard-of-hearing-people-part-2/">Ruth MacMullen</a>, an academic librarian who has been profoundly deaf since birth, has spoken about how her deafness affects her needs when it comes to using the Web. Drawing from her experiences, the following are some recommendations on how to improve accessibility for deaf and hard of hearing people, with an emphasis on <b>clear communication</b> and <b>flexibility of content</b>:
         </p>
         <ul>
             <li><u>Provide accurate captions for video with sound and full transcripts for all audio content.</u> Automated captions in particular should be checked for accuracy or inappropriate content. As Ruth noted, “even a little bit of effort made to clean up captions makes a huge difference to a deaf user.”</li>

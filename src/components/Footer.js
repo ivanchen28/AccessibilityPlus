@@ -33,14 +33,15 @@ function Footer() {
           <div className='footer-link-items'>
             <h2 className='footer-heading'>Pages</h2>
             <Link to='/'>Homepage</Link>
-            <Link to='/accessiblity'>Why Accessibility?</Link>
+            <Link to='/accessibility'>Why Accessibility?</Link>
             <Link to='/accounts'>User Accounts</Link>
             <br></br>
             <Link onClick={scrollToTop}>Back to Top</Link>
           </div>
           <div className='footer-link-items'>
             <h2 className='footer-heading'>Resources</h2>
-            <Link to='/'>Source Code</Link>
+            <Link to='https://github.com/ivanchen28/AccessibilityPlus'>Source Code</Link>
+            <Link to='/citations'>Citations</Link>
           </div>
         </div>
       </div>
