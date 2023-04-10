@@ -1,0 +1,83 @@
+section {
+    display: block;
+    margin: 10px
+}
+
+.demo-ex {
+    text-align: left
+}
+
+.example {
+    padding: 0.75em 1.5em;
+    background-color: #e8e8e8;
+    color: #202020;
+    width: 700px;
+    line-height: 1.25;
+    font-size: 18px;
+    font-weight: 650;
+    letter-spacing: 0.5px;
+}
+
+.label {
+    width: 1.875rem;
+    position: relative;
+}
+
+.icon-check {
+    fill: green
+}
+
+.icon-cross {
+    fill: red
+}
+
+.example.bad {
+    line-height: 1.25rem
+} 
+
+.example.bad > div {
+    overflow: hidden;
+}
+
+.example.bad[style*="font-size: 22px"] {
+    line-height: 1
+}
+
+.example.bad[style*="font-size: 26px"] {
+    line-height: .6
+}
+
+.example.bad[style*="font-size: 30px"] {
+    line-height: .5
+}
+
+.example.bad[style*="width: 75%"] p {
+    width: 150%
+}
+
+.example.bad[style*="width: 50%"] p {
+    width: 175%
+}
+
+.example.bad[style*="width: 25%"] p {
+    width: 200%
+}
+
+
+.demobutton {
+    display: inline-block;
+    background-color: #004196;
+    color :#e8e8e8;
+    border: 0;
+    border-radius: 3px;
+    font-weight: 700;
+    line-height: 1.75;
+    padding: 0 0.625em;
+    font: inherit;
+    cursor: pointer;
+    transition: 0.25s
+}
+
+.demobutton:hover {
+    transform: scale(1.085)
+}
