@@ -5,6 +5,7 @@ import Accessibility from './components/pages/Accessibility';
 import Demos from './components/pages/Demos';
 import MotorImpairment from './components/pages/demos/MotorImpairment';
 import Colourblindness from './components/pages/demos/Colourblindness';
+import CognitiveImpairment from './components/pages/demos/CognitiveImpairment';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import ScrollToTop from './components/ScrollToTop';
@@ -24,6 +25,7 @@ function App() {
           <Route path='/demos' element={<Demos/>}></Route>
           <Route path='/demos/motor-impairment' element={<MotorImpairment/>}></Route>
           <Route path='/demos/colourblindness' element={<Colourblindness/>}></Route>
+          <Route path='/demos/cognitive-impairment' element={<CognitiveImpairment/>}></Route>
         </Routes>
         <Footer />
       </Router>

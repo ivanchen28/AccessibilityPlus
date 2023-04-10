@@ -10,7 +10,7 @@ function CardHolder() {
             <div className='cards-wrapper'>
                 <ul className='cards-list'>
                     <CardItem
-                        src="/images/demos/cognitive-impairment.jpg"
+                        src="/images/demos/cognitive-impairment/main-card.jpg"
                         text="Over 10% of adults will experience cognitive impairment by the age of 65."
                         label='Cognitive Impairment'
                         path='/demos/cognitive-impairment'
