@@ -4,6 +4,7 @@ import Accounts from './components/pages/Accounts';
 import Accessibility from './components/pages/Accessibility';
 import Demos from './components/pages/Demos';
 import MotorImpairment from './components/pages/demos/MotorImpairment';
+import MobileAccessibility from './components/pages/demos/MobileAccessibility';
 import Colourblindness from './components/pages/demos/Colourblindness';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
@@ -22,6 +23,7 @@ function App() {
           <Route path='/accounts' element={<Accounts/>}></Route>
           <Route path='/accessibility' element={<Accessibility/>}></Route>
           <Route path='/demos' element={<Demos/>}></Route>
+          <Route path='/demos/mobile-accessibility' element={<MobileAccessibility/>}></Route>
           <Route path='/demos/motor-impairment' element={<MotorImpairment/>}></Route>
           <Route path='/demos/colourblindness' element={<Colourblindness/>}></Route>
         </Routes>

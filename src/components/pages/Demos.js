@@ -54,7 +54,7 @@ function Demos() {
           <StripItem
             src="/images/demos/mobile-accessibility.jpg"
             title='Mobile Accessibility'
-            text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec posuere eget augue et consectetur. Maecenas fermentum maximus ornare. Integer vulputate, nisi ac faucibus sodales, lectus risus vulputate metus, a luctus tellus sapien vitae nisi."
+            text="Mobile devices have become increasingly prevalent nowadays, and they are used by many groups of users with different capabilities, as such designing for accessibility is crucial especially with the different set of usability issues that such devices can create."
             path='/demos/mobile-accessibility'
             reverse='true'
           />
