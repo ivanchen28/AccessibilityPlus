@@ -33,15 +33,6 @@ function Demos() {
 
         <div className='strip-holder'>
           <StripItem
-            src="/images/demos/contrast.jpg"
-            title='Contrast'
-            text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec posuere eget augue et consectetur. Maecenas fermentum maximus ornare. Integer vulputate, nisi ac faucibus sodales, lectus risus vulputate metus, a luctus tellus sapien vitae nisi."
-            path='/demos/contrast'
-          />
-        </div>
-
-        <div className='strip-holder'>
-          <StripItem
             src="/images/demos/hearing-loss.jpg"
             title='Hearing Loss'
             text="Due to the prevalence of multimedia content on the Web, people who are deaf or hard of hearing face challenges when content is not designed to be accessible to them."

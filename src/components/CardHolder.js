@@ -24,12 +24,6 @@ function CardHolder() {
                 </ul>
                 <ul className='cards-list'>
                     <CardItem
-                        src="/images/demos/contrast.jpg"
-                        text="Both high and low contrast colour schemes lead to eye strain and fatigue."
-                        label='Contrast'
-                        path='/demos/contrast'
-                    />
-                    <CardItem
                         src="/images/demos/hearing-loss.jpg"
                         text="Nearly 20% of people experience hearing loss and deafness of varying degrees."
                         label='Hearing Loss'
