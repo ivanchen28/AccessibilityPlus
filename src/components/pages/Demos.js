@@ -44,7 +44,7 @@ function Demos() {
           <StripItem
             src="/images/demos/hearing-loss.jpg"
             title='Hearing Loss'
-            text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec posuere eget augue et consectetur. Maecenas fermentum maximus ornare. Integer vulputate, nisi ac faucibus sodales, lectus risus vulputate metus, a luctus tellus sapien vitae nisi."
+            text="Due to the prevalence of multimedia content on the Web, people who are deaf or hard of hearing face challenges when content is not designed to be accessible to them."
             path='/demos/hearing-loss'
             reverse='true'
           />
@@ -54,7 +54,7 @@ function Demos() {
           <StripItem
             src="/images/demos/low-vision.jpg"
             title='Low Vision'
-            text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec posuere eget augue et consectetur. Maecenas fermentum maximus ornare. Integer vulputate, nisi ac faucibus sodales, lectus risus vulputate metus, a luctus tellus sapien vitae nisi."
+            text="User needs can vary greatly across individuals with low vision, or even across one person's day-to-day conditions. Web content should be designed to accomodate users with low vision, who need to be able to customize how digital content is displayed on their screens to meet their specific needs."
             path='/demos/low-vision'
           />
         </div>
