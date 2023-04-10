@@ -41,6 +41,7 @@ function Footer() {
           <div className='footer-link-items'>
             <h2 className='footer-heading'>Resources</h2>
             <Link to='/'>Source Code</Link>
+            <Link to='/citations'>Citations</Link>
           </div>
         </div>
       </div>
