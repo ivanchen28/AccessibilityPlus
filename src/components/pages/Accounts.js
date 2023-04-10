@@ -17,7 +17,7 @@ function Accounts() {
       <h3>Kim Kilpatrick</h3>
       <figure>
         <img
-          src="/AccessibilityPlus/images/kim-kilpatrick.png"
+          src="/images/kim-kilpatrick.png"
           alt="Kim Kilpatrick with guide dog Tulia."
         />
         <figcaption> Kim Kilpatrick with guide dog Tulia. Photo by Canadian Council of the Blind </figcaption>
@@ -33,7 +33,7 @@ function Accounts() {
       <h3>Jim Ryan</h3>
       <figure>
         <img
-          src="/AccessibilityPlus/images/jim-ryan.png"
+          src="/images/jim-ryan.png"
           alt="Jim Ryan at his home in Chilliwack, B.C."
         />
         <figcaption> Jim Ryan at his home in Chilliwack, B.C. Photo by Darryl Dyck for National Post </figcaption>

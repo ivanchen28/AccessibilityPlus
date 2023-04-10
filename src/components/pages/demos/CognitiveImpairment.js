@@ -11,7 +11,7 @@ function CognitiveImpairment() {
         </p>
         <figure>
           <img
-            src="/AccessibilityPlus/images/demos/cognitive-impairment/eraser-brain.jpg"
+            src="/images/demos/cognitive-impairment/eraser-brain.jpg"
             alt="An eraser erasing a drawing of a brain on a piece of paper."
           />
           <figcaption>About 2.7% of people experience some sort of cognitive impairment.</figcaption>
@@ -24,7 +24,7 @@ function CognitiveImpairment() {
         </p>
         <figure>
           <img
-            src="/AccessibilityPlus/images/demos/cognitive-impairment/bad-design.jpg"
+            src="/images/demos/cognitive-impairment/bad-design.jpg"
             alt="Examples of poor cognitive impairment design."
           />
           <figcaption>Examples of poor design for cognitive impairment.</figcaption>
@@ -43,7 +43,7 @@ function CognitiveImpairment() {
         </ul>
         <figure>
           <img
-            src="/AccessibilityPlus/images/demos/cognitive-impairment/accessibility-design.png"
+            src="/images/demos/cognitive-impairment/accessibility-design.png"
             alt="Dos and Don'ts when designing for users with dyslexia and anxiety."
           />
           <figcaption>Good design guidelines for cognitive impairment web accessibility, specifically anxiety and dyslexia, but they are good guidelines for other types of cognitive impairment conditions as well.</figcaption>

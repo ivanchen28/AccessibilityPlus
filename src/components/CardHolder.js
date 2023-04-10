@@ -10,13 +10,13 @@ function CardHolder() {
             <div className='cards-wrapper'>
                 <ul className='cards-list'>
                     <CardItem
-                        src="/AccessibilityPlus/images/demos/cognitive-impairment/main-card.jpg"
+                        src="/images/demos/cognitive-impairment/main-card.jpg"
                         text="Over 10% of adults will experience cognitive impairment by the age of 65."
                         label='Cognitive Impairment'
                         path='/demos/cognitive-impairment'
                     />
                     <CardItem
-                        src="/AccessibilityPlus/images/demos/colourblindness/main-card.jpg"
+                        src="/images/demos/colourblindness/main-card.jpg"
                         text="300 million people suffer from colour vision deficiency globally, also known as colourblindness."
                         label='Colourblindness'
                         path='/demos/colourblindness'
@@ -24,13 +24,13 @@ function CardHolder() {
                 </ul>
                 <ul className='cards-list'>
                     <CardItem
-                        src="/AccessibilityPlus/images/demos/hearing-loss.jpg"
+                        src="/images/demos/hearing-loss.jpg"
                         text="Nearly 20% of people experience hearing loss and deafness of varying degrees."
                         label='Hearing Loss'
                         path='/demos/hearing-loss'
                     />
                     <CardItem
-                        src="/AccessibilityPlus/images/demos/low-vision.jpg"
+                        src="/images/demos/low-vision.jpg"
                         text="Users with uncorrectable vision loss may require dynamic sizing of webpages and other accessibility features."
                         label='Low Vision'
                         path='/demos/low-vision'
@@ -38,13 +38,13 @@ function CardHolder() {
                 </ul>
                 <ul className='cards-list'>
                     <CardItem
-                        src="/AccessibilityPlus/images/demos/mobile-accessibility.jpg"
+                        src="/images/demos/mobile-accessibility.jpg"
                         text="Mobile devices are becoming popular support tools for users with accessibility needs."
                         label='Mobile Support'
                         path='/demos/mobile-support'
                     />
                     <CardItem
-                        src="/AccessibilityPlus/images/demos/motor-impairment/main-card.jpg"
+                        src="/images/demos/motor-impairment/main-card.jpg"
                         text="Motor impairment in the hands and arms severely impedes web and computer usage."
                         label='Motor Impairment'
                         path='/demos/motor-impairment'

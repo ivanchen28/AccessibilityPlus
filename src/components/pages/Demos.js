@@ -14,7 +14,7 @@ function Demos() {
 
         <div className='strip-holder'>
           <StripItem
-            src="/AccessibilityPlus/images/demos/cognitive-impairment/main-card.jpg"
+            src="/images/demos/cognitive-impairment/main-card.jpg"
             title='Cognitive Impairment'
             text="Cognitive impairment can come from a variety of disorders, conditions, and freak accidents. Users suffering from this disability may experience memory loss, difficulty understanding contents, and may be neuroatypical."
             path='/demos/cognitive-impairment'
@@ -23,7 +23,7 @@ function Demos() {
 
         <div className='strip-holder'>
           <StripItem
-            src="/AccessibilityPlus/images/demos/colourblindness/main-card.jpg"
+            src="/images/demos/colourblindness/main-card.jpg"
             title='Colourblindness'
             text="Over 8% of people suffer from colourblindness, also known as colour vision deficiency. The condition has no known cure and forever poses challenges to everyday life for those with this condition."
             path='/demos/colourblindness'
@@ -33,7 +33,7 @@ function Demos() {
 
         <div className='strip-holder'>
           <StripItem
-            src="/AccessibilityPlus/images/demos/hearing-loss.jpg"
+            src="/images/demos/hearing-loss.jpg"
             title='Hearing Loss'
             text="Due to the prevalence of multimedia content on the Web, people who are deaf or hard of hearing face challenges when content is not designed to be accessible to them."
             path='/demos/hearing-loss'
@@ -42,7 +42,7 @@ function Demos() {
 
         <div className='strip-holder'>
           <StripItem
-            src="/AccessibilityPlus/images/demos/low-vision.jpg"
+            src="/images/demos/low-vision.jpg"
             title='Low Vision'
             text="User needs can vary greatly across individuals with low vision, or even across one person's day-to-day conditions. Web content should be designed to accomodate users with low vision, who need to be able to customize how digital content is displayed on their screens to meet their specific needs."
             path='/demos/low-vision'
@@ -52,7 +52,7 @@ function Demos() {
 
         <div className='strip-holder'>
           <StripItem
-            src="/AccessibilityPlus/images/demos/mobile-accessibility.jpg"
+            src="/images/demos/mobile-accessibility.jpg"
             title='Mobile Accessibility'
             text="Mobile devices have become increasingly prevalent nowadays, and they are used by many groups of users with different capabilities, as such designing for accessibility is crucial especially with the different set of usability issues that such devices can create."
             path='/demos/mobile-accessibility'
@@ -61,7 +61,7 @@ function Demos() {
 
         <div className='strip-holder'>
           <StripItem
-            src="/AccessibilityPlus/images/demos/motor-impairment/main-card.jpg"
+            src="/images/demos/motor-impairment/main-card.jpg"
             title='Motor Impairment'
             text="Motor impairment can come from many different diseases, conditions, and accidents and can affect people of all ages. Computer usage is often much more difficult with motor impairment as traditional input devices and certain website designs may not be very accomodating to users with accessibility needs."
             path='/demos/motor-impairment'

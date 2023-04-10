@@ -34,7 +34,7 @@ function MotorImpairment() {
         </p>
         <figure>
           <img
-            src="/AccessibilityPlus/images/demos/motor-impairment/main-card.jpg"
+            src="/images/demos/motor-impairment/main-card.jpg"
             alt="Elderly person with impaired movement in the hand."
           />
           <figcaption>Motor impairment in the hands can make computer usage very difficult.</figcaption>
@@ -47,7 +47,7 @@ function MotorImpairment() {
         </p>
         <figure>
           <img
-            src="/AccessibilityPlus/images/demos/motor-impairment/parkinsons.jpg"
+            src="/images/demos/motor-impairment/parkinsons.jpg"
             alt="An individual with Parkinson's disease that has hand tremors."
           />
           <figcaption>Hand tremors are a very common symptom of Parkinson's disease.</figcaption>
@@ -101,7 +101,7 @@ function MotorImpairment() {
         </p>
         <figure>
           <img
-            src="/AccessibilityPlus/images/demos/motor-impairment/ergonomic-keyboard.jpg"
+            src="/images/demos/motor-impairment/ergonomic-keyboard.jpg"
             alt="A person uses an ergonomic keyboard and mouse."
           />
           <figcaption>Ergonomic keyboards can be helpful in reducing pain for users with minor motor impairment.</figcaption>
