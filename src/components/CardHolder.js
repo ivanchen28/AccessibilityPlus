@@ -16,7 +16,7 @@ function CardHolder() {
                         path='/demos/cognitive-impairment'
                     />
                     <CardItem
-                        src="/images/demos/colourblindness.jpg"
+                        src="/images/demos/colourblindness/main-card.jpg"
                         text="300 million people suffer from colour vision deficiency globally, also known as colourblindness."
                         label='Colourblindness'
                         path='/demos/colourblindness'

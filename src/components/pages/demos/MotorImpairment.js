@@ -115,9 +115,6 @@ function MotorImpairment() {
           <li>Alternate forms of input such as speech-to-text, keyboard commands, assistive touch on touchscreens, and even trackers for head movements can be very beneficial in combatting motor impairments.</li>
           <li>There are many software programs designed for impaired users that assist with motor impairment, such as enlarging certain features, receiving voice commands, connecting alternate inputs such as tablets, and more.</li>
         </ul>
-        <p>
-          
-        </p>
       </div>
     </>
   )

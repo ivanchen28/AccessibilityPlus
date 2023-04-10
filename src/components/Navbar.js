@@ -13,6 +13,12 @@ function Navbar() {
         <div className="navbar-container">
           <Link to="/" className="navbar-logo" onClick={closeMobileMenu}>
             AccessibilityPlus
+            <figure className='logo-figure'>
+              <img className='logo'
+                src="/images/logo.png"
+                alt="AccessibilityPlus Logo"
+              />
+            </figure>
           </Link>
           <div className='menu-icon' onClick={handleClick}>
             <i className={click ? 'fas fa-times' : 'fas fa-bars'}>
@@ -31,8 +37,8 @@ function Navbar() {
               </Link>
             </li>
             <li className='nav-item'>
-              <Link to='/about' className='nav-links' onClick={closeMobileMenu}>
-                About
+              <Link to='/accounts' className='nav-links' onClick={closeMobileMenu}>
+                User Accounts
               </Link>
             </li>
             <li className='nav-item'>

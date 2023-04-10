@@ -1,0 +1,38 @@
+.picker-container {
+  max-width: 100%;
+  max-height: 50%;
+  margin: 10px;
+  display: flex;
+  flex-flow: row nowrap;
+}
+
+.picker-wrapper > {
+  height: auto;
+  display: flex;
+  justify-content: center;
+}
+
+.picker > {
+  align-items: center;
+  align-self: center;
+  margin-left: 100px;
+  display: flex;
+}
+
+.product-title {
+  margin-bottom: 100px;
+  text-align: center;
+}
+
+.figure-wrapper {
+  max-width: 60%;
+  height: auto;
+  overflow: hidden;
+  object-fit: cover;
+  margin-right: 50px;
+}
+
+.figure-wrapper figure > img {
+  max-width: 100%;
+  height: auto;
+}

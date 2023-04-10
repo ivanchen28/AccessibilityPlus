@@ -9,7 +9,7 @@ function Demos() {
       <div className='standard-page'>
         <h1 className='header'>All Demos</h1>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec posuere eget augue et consectetur. Maecenas fermentum maximus ornare. Integer vulputate, nisi ac faucibus sodales, lectus risus vulputate metus, a luctus tellus sapien vitae nisi. Fusce a ligula eleifend, pharetra dui eget, pharetra nibh. Ut elit lacus, lobortis quis metus sit amet, tempus egestas magna. Sed felis purus, consequat et efficitur sed, iaculis in neque. Morbi mollis diam enim, a pellentesque erat rhoncus ut. Sed pretium eros massa, at lobortis diam mollis et.
+          Our demos are intended to give readers a better understanding of various types of disabilities and impairments that affect people from using technology such as the Internet and computer applications. We strive to provide an interactive element whenever possible to see and feel what using computers can be like for these users, and demonstrate how developers can make their products more accessible by implementing certain design strategies. Feel free to explore!
         </p>
 
         <div className='strip-holder'>
@@ -23,10 +23,10 @@ function Demos() {
 
         <div className='strip-holder'>
           <StripItem
-            src="/images/demos/colourblindness.jpg"
+            src="/images/demos/colourblindness/main-card.jpg"
             title='Colourblindness'
-            text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec posuere eget augue et consectetur. Maecenas fermentum maximus ornare. Integer vulputate, nisi ac faucibus sodales, lectus risus vulputate metus, a luctus tellus sapien vitae nisi."
-            path='/demos/cognitive-impairment'
+            text="Over 8% of people suffer from colourblindness, also known as colour vision deficiency. The condition has no known cure and forever poses challenges to everyday life for those with this condition."
+            path='/demos/colourblindness'
             reverse='true'
           />
         </div>
@@ -63,7 +63,7 @@ function Demos() {
           <StripItem
             src="/images/demos/mobile-accessibility.jpg"
             title='Mobile Accessibility'
-            text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec posuere eget augue et consectetur. Maecenas fermentum maximus ornare. Integer vulputate, nisi ac faucibus sodales, lectus risus vulputate metus, a luctus tellus sapien vitae nisi."
+            text="Mobile devices have become increasingly prevalent nowadays, and they are used by many groups of users with different capabilities, as such designing for accessibility is crucial especially with the different set of usability issues that such devices can create."
             path='/demos/mobile-accessibility'
             reverse='true'
           />
