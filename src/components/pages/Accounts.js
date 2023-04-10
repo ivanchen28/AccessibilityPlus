@@ -18,7 +18,7 @@ function Accounts() {
       <figure>
         <img
           src="/images/kim-kilpatrick.png"
-          alt="Kim Kilpatrick with guide dog Tulia. Photo by Canadian Council of the Blind "
+          alt="Kim Kilpatrick with guide dog Tulia."
         />
         <figcaption> Kim Kilpatrick with guide dog Tulia. Photo by Canadian Council of the Blind </figcaption>
       </figure>
@@ -34,7 +34,7 @@ function Accounts() {
       <figure>
         <img
           src="/images/jim-ryan.png"
-          alt="Jim Ryan at his home in Chilliwack, B.C. Photo by Darryl Dyck for National Post  "
+          alt="Jim Ryan at his home in Chilliwack, B.C."
         />
         <figcaption> Jim Ryan at his home in Chilliwack, B.C. Photo by Darryl Dyck for National Post </figcaption>
       </figure>
