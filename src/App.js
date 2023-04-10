@@ -8,6 +8,7 @@ import HearingLoss from './components/pages/demos/HearingLoss';
 import LowVision from './components/pages/demos/LowVision';
 import MobileAccessibility from './components/pages/demos/MobileAccessibility';
 import Colourblindness from './components/pages/demos/Colourblindness';
+import CognitiveImpairment from './components/pages/demos/CognitiveImpairment';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import ScrollToTop from './components/ScrollToTop';
@@ -30,6 +31,7 @@ function App() {
           <Route path='/demos/hearing-loss' element={<HearingLoss/>}></Route>
           <Route path='/demos/low-vision' element={<LowVision/>}></Route>
           <Route path='/demos/colourblindness' element={<Colourblindness/>}></Route>
+          <Route path='/demos/cognitive-impairment' element={<CognitiveImpairment/>}></Route>
         </Routes>
         <Footer />
       </Router>

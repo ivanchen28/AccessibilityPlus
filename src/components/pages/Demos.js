@@ -14,9 +14,9 @@ function Demos() {
 
         <div className='strip-holder'>
           <StripItem
-            src="/images/demos/cognitive-impairment.jpg"
+            src="/images/demos/cognitive-impairment/main-card.jpg"
             title='Cognitive Impairment'
-            text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec posuere eget augue et consectetur. Maecenas fermentum maximus ornare. Integer vulputate, nisi ac faucibus sodales, lectus risus vulputate metus, a luctus tellus sapien vitae nisi."
+            text="Cognitive impairment can come from a variety of disorders, conditions, and freak accidents. Users suffering from this disability may experience memory loss, difficulty understanding contents, and may be neuroatypical."
             path='/demos/cognitive-impairment'
           />
         </div>
