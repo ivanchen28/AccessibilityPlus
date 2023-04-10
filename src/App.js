@@ -2,6 +2,7 @@ import './App.css';
 import Home from './components/pages/Home';
 import Accounts from './components/pages/Accounts';
 import Accessibility from './components/pages/Accessibility';
+import Citations from './components/pages/Citations';
 import Demos from './components/pages/Demos';
 import MotorImpairment from './components/pages/demos/MotorImpairment';
 import HearingLoss from './components/pages/demos/HearingLoss';
@@ -30,6 +31,7 @@ function App() {
           <Route path='/demos/hearing-loss' element={<HearingLoss/>}></Route>
           <Route path='/demos/low-vision' element={<LowVision/>}></Route>
           <Route path='/demos/colourblindness' element={<Colourblindness/>}></Route>
+          <Route path='/citations' element={<Citations/>}></Route>
         </Routes>
         <Footer />
       </Router>

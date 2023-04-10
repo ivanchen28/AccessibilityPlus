@@ -36,6 +36,7 @@ function Footer() {
             <Link to='/'>Homepage</Link>
             <Link to='/accessiblity'>Why Accessibility?</Link>
             <Link to='/accounts'>User Accounts</Link>
+            <Link to='/citations'>Citations</Link>
             <br></br>
             <Link onClick={scrollToTop}>Back to Top</Link>
           </div>
