@@ -15,7 +15,7 @@ function Navbar() {
             AccessibilityPlus
             <figure className='logo-figure'>
               <img className='logo'
-                src="/AccessibilityPlus/images/logo.png"
+                src="/images/logo.png"
                 alt="AccessibilityPlus Logo"
               />
             </figure>

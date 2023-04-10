@@ -18,7 +18,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 function App() {
   return (
     <>
-      <Router basename="AccessibilityPlus">
+      <Router basename="">
         <ScrollToTop />
         <Navbar />
         <Routes>

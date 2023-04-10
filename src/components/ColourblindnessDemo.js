@@ -16,12 +16,12 @@ function ColourblindnessDemo(properties) {
     red: "#5f5b4e"
   }
   const imagePaths = {
-    black: "/AccessibilityPlus/images/demos/colourblindness/shirts/black.jpg",
-    blue: "/AccessibilityPlus/images/demos/colourblindness/shirts/blue.jpg",
-    green: "/AccessibilityPlus/images/demos/colourblindness/shirts/green.jpg",
-    grey: "/AccessibilityPlus/images/demos/colourblindness/shirts/grey.jpg",
-    maroon: "/AccessibilityPlus/images/demos/colourblindness/shirts/maroon.jpg",
-    red: "/AccessibilityPlus/images/demos/colourblindness/shirts/red.jpg"
+    black: "/images/demos/colourblindness/shirts/black.jpg",
+    blue: "/images/demos/colourblindness/shirts/blue.jpg",
+    green: "/images/demos/colourblindness/shirts/green.jpg",
+    grey: "/images/demos/colourblindness/shirts/grey.jpg",
+    maroon: "/images/demos/colourblindness/shirts/maroon.jpg",
+    red: "/images/demos/colourblindness/shirts/red.jpg"
   }
   const colourNames = {
     black: "Black",

@@ -15,7 +15,7 @@ function LowVision() {
         </p>
         <figure>
           <img
-            src="/AccessibilityPlus/images/demos/low-vision/low-vision-examples.jpg"
+            src="/images/demos/low-vision/low-vision-examples.jpg"
             alt="Figure showing (a) image of a dog, (b) the same image with center area obscured, (c) the same image with outer area obscured, and (d) the same image heavily blurred."
           />
           <figcaption>The visual experience of an individual with (a) normal vision, (b) macular degeneration, (c) glaucoma, and (d) cataracts.</figcaption>
@@ -41,7 +41,7 @@ function LowVision() {
           In the example below, the content on the login page is cut off for a user with large text size settings. The page does not accomodate scrolling, either.
           <figure>
             <img
-              src="/AccessibilityPlus/images/demos/low-vision/textsize-bad-ex.gif"
+              src="/images/demos/low-vision/textsize-bad-ex.gif"
               alt="An animation of a login form. The password field is cut off due to the increased text size of the other components."
               style={{ padding: '20px' }}
               height="350px"
@@ -53,7 +53,7 @@ function LowVision() {
           In the first example below, a user using a screen magnifier might encounter a tooltip triggered by a cursor hover. The pop-up is larger than the screen magnifier’s view, but when the user moves their cursor to read it, the tooltip loses focus and disappears.
           <figure>
             <img
-              src="/AccessibilityPlus/images/demos/low-vision/tooltip-bad-ex.gif"
+              src="/images/demos/low-vision/tooltip-bad-ex.gif"
               alt="An animation of an information icon next to a checkbox. When the cursor is moved over the icon, a speech bubble containing some explanatory text appears next to the icon. When the cursor is moved away from the icon, the speech bubble disappears."
               style={{ padding: '10px 20px' }}
             />
@@ -62,7 +62,7 @@ function LowVision() {
           The second example below shows how a similar tooltip might be done better. Here, the user can move their cursor onto the tooltip in order to read it, and it stays visible.
           <figure>
             <img
-              src="/AccessibilityPlus/images/demos/low-vision/tooltip-good-ex.gif"
+              src="/images/demos/low-vision/tooltip-good-ex.gif"
               alt="An animation of a tooltip that remains visible when the cursor is moved from the information icon to the speech bubble, only disappearing when the cursor leaves the bubble."
               style={{ padding: '20px' }}
             />
@@ -73,7 +73,7 @@ function LowVision() {
           In the example below, the user edits their profile details on the left of the screen, but the confirmation message appears in the top right. This message would not be instantly noticeable to a user using a screen magnifier or zoomed in on the page. Even then, they would have to scroll a fair bit to even read the message.
           <figure>
             <img
-              src="/AccessibilityPlus/images/demos/low-vision/action-bad-ex.gif"
+              src="/images/demos/low-vision/action-bad-ex.gif"
               alt="An animation of an information field. When the save button is clicked, a confirmation message appears in the top right."
               style={{ padding: '20px' }}
               width="450px"
