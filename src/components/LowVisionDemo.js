@@ -18,13 +18,13 @@ function LowVisionDemo() {
     }
 
     const zoomIn = () => {
-        if (width != 25) {
+        if (width !== 25) {
             setWidth(width - 25)
         }
     }
 
     const zoomOut = () => {
-        if (width != 100) {
+        if (width !== 100) {
             setWidth(width + 25)
         }
     }

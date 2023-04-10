@@ -37,7 +37,6 @@ function Demos() {
             title='Hearing Loss'
             text="Due to the prevalence of multimedia content on the Web, people who are deaf or hard of hearing face challenges when content is not designed to be accessible to them."
             path='/demos/hearing-loss'
-            reverse='true'
           />
         </div>
 
@@ -47,6 +46,7 @@ function Demos() {
             title='Low Vision'
             text="User needs can vary greatly across individuals with low vision, or even across one person's day-to-day conditions. Web content should be designed to accomodate users with low vision, who need to be able to customize how digital content is displayed on their screens to meet their specific needs."
             path='/demos/low-vision'
+            reverse='true'
           />
         </div>
 
@@ -56,7 +56,6 @@ function Demos() {
             title='Mobile Accessibility'
             text="Mobile devices have become increasingly prevalent nowadays, and they are used by many groups of users with different capabilities, as such designing for accessibility is crucial especially with the different set of usability issues that such devices can create."
             path='/demos/mobile-accessibility'
-            reverse='true'
           />
         </div>
 
@@ -66,6 +65,7 @@ function Demos() {
             title='Motor Impairment'
             text="Motor impairment can come from many different diseases, conditions, and accidents and can affect people of all ages. Computer usage is often much more difficult with motor impairment as traditional input devices and certain website designs may not be very accomodating to users with accessibility needs."
             path='/demos/motor-impairment'
+            reverse='true'
           />
         </div>
       </div>
