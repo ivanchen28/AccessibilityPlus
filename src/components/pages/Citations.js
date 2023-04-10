@@ -55,7 +55,7 @@ function Citations() {
           Color Blindness. (n.d.). Coblis - Color Blindness Simulator. https://www.color-blindness.com/coblis-color-blindness-simulator/
         </p>
         <p>
-          World Wide Web Consortium. (2016, April 5). Designing for cognitive disabilities. https://www.w3.org/WAI/tips/designing/
+          W3C Web Accessibility Initiative. (2016, April 5). Designing for cognitive disabilities. https://www.w3.org/WAI/tips/designing/
         </p>
         <p>
           Casesandberg. (n.d.). react-color. GitHub. https://casesandberg.github.io/react-color/
@@ -83,6 +83,27 @@ function Citations() {
         </p>
         <p>
           Lumen Learning. (n.d.). Motor Disorders. Abnormal Psychology. https://courses.lumenlearning.com/wm-abnormalpsych/chapter/motor-disorders/
+        </p>
+        <p>
+          Bigblind. (2021, February 16). How to make your website accessible to people who use a screen magnifier. dev.to. Retrieved from https://dev.to/_bigblind/how-to-make-your-website-accessible-to-people-who-use-a-screen-magnifier
+        </p>
+        <p>
+          Hallett, E. C., Roberts, Z., Sweet, J., Chan, M. L., Sun, Y., Dick, W., Monge, A., &amp; Vu, K.-P. L. (2015). Computer accessibility: How individuals with low vision adjust the presentation of electronic text for academic reading. Procedia Manufacturing, 3, 5206–5213. https://doi.org/10.1016/j.promfg.2015.07.586
+        </p>
+        <p>
+          Moreno, L., Valencia, X., Pérez, J. E., &amp; Arrue, M. (2020). An exploratory study of web adaptation techniques for people with low vision. Universal Access in the Information Society, 20(2), 223–237. https://doi.org/10.1007/s10209-020-00727-6 
+        </p>
+        <p>
+          Swallow, D. (2022, May 11). Sounding out the web: Accessibility for deaf and hard of hearing people. TPGi. Retrieved April 10, 2023, from https://www.tpgi.com/sounding-out-the-web-accessibility-for-deaf-and-hard-of-hearing-people-part-2/ 
+        </p>
+        <p>
+          W3C Web Accessibility Initiative. (2018). Requirements for people with low vision needs. Retrieved from https://www.w3.org/TR/low-vision-needs
+        </p>
+        <p>
+          World Health Organization. (2021, March 25). Blindness and visual impairment. Fact sheet. Retrieved from https://www.who.int/news-room/fact-sheets/detail/blindness-and-visual-impairment
+        </p>
+        <p>
+          World Health Organization. (n.d.). Deafness and hearing loss. World Health Organization. Retrieved April 10, 2023, from https://www.who.int/news-room/fact-sheets/detail/deafness-and-hearing-loss 
         </p>
       </div>
     </div>
