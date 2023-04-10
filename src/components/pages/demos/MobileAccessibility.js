@@ -10,7 +10,7 @@ function MobileAccessibility() {
       </p>
       <figure>
         <img
-          src="/images/demos/mobile-accessibility/using-phone.jpg"
+          src="/AccessibilityPlus/images/demos/mobile-accessibility/using-phone.jpg"
           alt="Person using their phone"
         />
         <figcaption>With smartphone devices being used by 6.92 billion people worldwide, they have become integral to everyday life for many people - as a way of accessing information instantaneously - whether that be through the Internet or on mobile applications.</figcaption>
@@ -23,7 +23,7 @@ function MobileAccessibility() {
       </p>
       <figure>
         <img
-          src="/images/demos/mobile-accessibility/android-access-features.png"
+          src="/AccessibilityPlus/images/demos/mobile-accessibility/android-access-features.png"
           alt="Several phone screeens with depicting the Android features Google has decoupled from the OS."
         />
         <figcaption>Google has recently decoupled Android accessibility features into a separate app 'Switch Access' which helps users control their phone or tablet with external devices or facial gestures.</figcaption>
@@ -33,7 +33,7 @@ function MobileAccessibility() {
       </p>
       <figure>
         <img
-          src="/images/demos/mobile-accessibility/cooking-with-voice-assistant.png"
+          src="/AccessibilityPlus/images/demos/mobile-accessibility/cooking-with-voice-assistant.png"
           alt="A woman cooks while watching her tablet and using her voice assistant."
         />
         <figcaption> When cooking and needing to use both hands, a voice assistant is useful to any user with its' ability to perform any valid action that a user asks of them (like setting a timer or answering a text message).</figcaption>
@@ -59,7 +59,7 @@ function MobileAccessibility() {
             <td>
             <figure>
                 <img
-                src="/images/demos/mobile-accessibility/bad-ui-design.png"
+                src="/AccessibilityPlus/images/demos/mobile-accessibility/bad-ui-design.png"
                 alt="A badly designed mobile music application."
                 />
             </figure>
@@ -92,7 +92,7 @@ function MobileAccessibility() {
             <td>
             <figure>
                 <img
-                src="/images/demos/mobile-accessibility/good-ui-design.png"
+                src="/AccessibilityPlus/images/demos/mobile-accessibility/good-ui-design.png"
                 alt="A better designed mobile music application."
                 />
             </figure>

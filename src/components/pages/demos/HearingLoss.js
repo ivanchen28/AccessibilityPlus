@@ -14,7 +14,7 @@ function HearingLoss() {
         </p>
         <figure>
           <img
-            src="/images/demos/hearing-loss/main-card.jpg"
+            src="/AccessibilityPlus/images/demos/hearing-loss/main-card.jpg"
             alt="A boy wearing hearing aids holding a tablet."
           />
           <figcaption>Users with varying degrees of hearing may prefer audio content on its own or in conjunction with captioning, or rely solely captions.</figcaption>

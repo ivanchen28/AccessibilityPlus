@@ -19,7 +19,7 @@ function Accessibility() {
       </p>
       <figure>
         <img
-          src="/images/disability-types.jpg"
+          src="/AccessibilityPlus/images/disability-types.jpg"
           alt="Impairment: Cognitive, Visual, Auditory, Motor, Speech"
         />
         <figcaption>Different types of impairment and disabilities.</figcaption>

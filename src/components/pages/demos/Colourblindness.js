@@ -12,7 +12,7 @@ function Colourblindness() {
         </p>
         <figure>
           <img
-            src="/images/demos/colourblindness/colourblindness-types.jpg"
+            src="/AccessibilityPlus/images/demos/colourblindness/colourblindness-types.jpg"
             alt="Different types of colourblindness compared to normal vision."
           />
           <figcaption>Clockwise from top left: normal vision, green-blindness (deuteranopia), red-blindness (protanopia), blue-blindness (tritanopia).</figcaption>
@@ -28,7 +28,7 @@ function Colourblindness() {
         </p>
         <figure>
           <img
-            src="/images/demos/colourblindness/colourblindness-percentage.jpg"
+            src="/AccessibilityPlus/images/demos/colourblindness/colourblindness-percentage.jpg"
             alt="A chart showing the relative frequency of colourblindness in men and women."
           />
           <figcaption>Colourblindness is much more common in men (1 in 12) than women (1 in 200).</figcaption>
@@ -41,7 +41,7 @@ function Colourblindness() {
         </p>
         <figure>
           <img
-            src="/images/demos/colourblindness/red-green-colourblindness.jpg"
+            src="/AccessibilityPlus/images/demos/colourblindness/red-green-colourblindness.jpg"
             alt="Two soccer players on opposing teams are wearing jerseys of differing colours, red and green, but become the same colour of brown for people with protanopia."
           />
           <figcaption>A soccer match between Wales and Ireland in 2022 resulted in the teams wearing red and green, respectively. However, people suffering from protanopia could not differentiate the two teams.</figcaption>
@@ -101,7 +101,7 @@ function Colourblindness() {
         </ul>
         <figure>
           <img
-            src="/images/demos/colourblindness/colourblind-glasses.jpg"
+            src="/AccessibilityPlus/images/demos/colourblindness/colourblind-glasses.jpg"
             alt="A mountain range seen through a pair of colourblind glasses, enhancing the colour."
           />
           <figcaption>Colourblind glasses can help users enhance certain colours they may not be able to see well, partially restoring their vision for that colour range.</figcaption>
